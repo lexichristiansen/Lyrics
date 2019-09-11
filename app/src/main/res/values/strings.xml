@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lyrics</string>
+    <string name="title_lyric_detail">Lyric Detail</string>
+    <string name="title_activity_add_lyric">Add Lyrics</string>
+    <string name="delete_lyrics_prompt">Delete lyric?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
