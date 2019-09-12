@@ -4,7 +4,7 @@ package me.lexichristiansen.lyrics.database;
  * Lyric database object.
  */
 public class Lyric {
-
+    
     int _id;
     String title;
     String lyricsEnglish;
